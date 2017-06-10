@@ -15,9 +15,6 @@ npm install react-native-simple-encryption --save
 ![Uv9dKl](http://i.makeagif.com/media/5-28-2017/Uv9dKl.gif)
 
 
-### Example
-##### [example here](https://github.com/BhavanPatel/react-native-simple-encryption/tree/master/Example)
-
 ### Sample usage
 ```javascript
 ...
